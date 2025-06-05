@@ -43,6 +43,10 @@ if (!isset($_SESSION['username'])) {
                     <i class="bi bi-list-check"></i> 
                     <a href="list_remitos.php" class="text-decoration-none">Listado de Remitos</a>
                 </li>
+                <li class="list-group-item">
+                    <i class="bi bi-box-seam"></i>
+                    <a href="productos.php" class="text-decoration-none">Productos</a>
+                </li>
             </ul>
         </div>
     </div>
